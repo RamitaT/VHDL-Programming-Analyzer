@@ -1,0 +1,10 @@
+signal a : std_logic;
+signal b : std_logic_vector(3 downto 0)
+signal c : boolean;
+signal d : boolean;
+
+if a = c or b /= c then
+	c = a;
+elsif b = x"1010 then
+elsif c = d then
+	c = b;
